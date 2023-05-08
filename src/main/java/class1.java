@@ -12,6 +12,11 @@ public class class1 {
 
         float cellnum = 0.000001f;
 
+        //deneme V4 kısayoldan commit stage area atla
+
+        int page = 122;
+
+
 
     }
 }
