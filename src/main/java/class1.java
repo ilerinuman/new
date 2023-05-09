@@ -17,6 +17,7 @@ public class class1 {
         int page = 122;
         //Deneme son v5
         ////
+        // değişiklik git pull
 
 
 
